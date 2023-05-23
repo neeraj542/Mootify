@@ -20,9 +20,9 @@ Mootify is deployed and accessible at: [https://mootify.netlify.app/](https://mo
 
 ## Technologies Used
 
-- Frontend: React.js, HTML5, CSS3
-- Backend: Node.js, Express.js
-- Database: MongoDB
+- HTML5
+- CSS3
+- JavaScript
 
 ## Getting Started
 
