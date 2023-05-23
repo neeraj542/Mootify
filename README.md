@@ -16,7 +16,7 @@ Welcome to Mootify, a musical site that takes you on a journey through the world
 
 ## Deployment
 
-Mootify is deployed and accessible at: [https://main--mootify.netlify.app/](https://mootify.netlify.app/)
+Mootify is deployed and accessible at: [https://mootify.netlify.app/](https://mootify.netlify.app/)
 
 ## Technologies Used
 
